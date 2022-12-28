@@ -73,4 +73,20 @@ public class EmployeeController : ControllerBase
         }
         return null;
     }
+    [HttpPut("{id}/update-avatar")]
+    public async Task<IActionResult> UpdateAvatar(int id, string avatar_url)
+    {
+        if (id == null)
+        {
+            return BadRequest();
+        }
+        var employee = new Employee() {Id = id, AvatarUrl = avatar_url};
+        var entity = _context.Employees.FirstOrDefault(item => item.Id == id);
+        if (entity != null)
+        {
+            entity.AvatarUrl = avatar_url;
+            _context.SaveChanges();
+        }
+        return Ok();
+    }
 }
