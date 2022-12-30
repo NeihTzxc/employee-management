@@ -78,8 +78,12 @@ namespace EmployeeManagement.Models
                 entity.Property(e => e.IsManager).HasColumnName("is_manager");
 
                 entity.Property(e => e.Name)
-                    .HasMaxLength(1)
+                    .HasMaxLength(500)
                     .HasColumnName("name");
+                
+                entity.Property(e => e.UserName)
+                    .HasMaxLength(500)
+                    .HasColumnName("user_name");
 
                 entity.Property(e => e.Password)
                     .HasColumnType("text")

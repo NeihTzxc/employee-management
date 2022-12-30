@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1398e108-03ef-4a04-96ca-6e7237f5e97c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Controllers/Employee.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/Employee.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeeManagement.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeManagement.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Employee.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Employee.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/employee_managementContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/employee_managementContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/EmployeeManagement.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/EmployeeManagement.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/EmployeeManagement.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/EmployeeManagement.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/project.razor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/EmployeeManagement.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/EmployeeManagement.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JTa0BuHBFSseNFkk1g0CX73hrD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Project/EmployeeManagement",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1398e108-03ef-4a04-96ca-6e7237f5e97c" name="Changes" comment="" />
+      <created>1672104302132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672104302132</updated>
+      <workItem from="1672104303414" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -15,5 +15,6 @@ namespace EmployeeManagement.Models
         public string? Password { get; set; }
         public int? Sex { get; set; }
         public bool? IsManager { get; set; }
+        public string? UserName { get; set; }
     }
 }
